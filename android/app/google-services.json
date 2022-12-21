@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648498148456",
+    "project_id": "arsyian-learning",
+    "storage_bucket": "arsyian-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648498148456:android:9cc32f5ec81722d2ff77dd",
+        "android_client_info": {
+          "package_name": "com.arsyianlearning.arsyian_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648498148456-p30933ol6rjaqnbdvq6fb2a3lmqtumhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMk0Bn3QaNgqWdiDdCKO1pRJoGULh6DPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648498148456-p30933ol6rjaqnbdvq6fb2a3lmqtumhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
